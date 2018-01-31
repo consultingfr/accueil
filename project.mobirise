@@ -41,7 +41,7 @@
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/cd12-128x83.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "google-analytics": "",
     "siteUrl": "undefined",
