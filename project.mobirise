@@ -536,7 +536,7 @@
               "background-image": "url(@bg-value)"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_name": "header1",

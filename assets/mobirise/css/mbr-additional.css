@@ -1600,10 +1600,6 @@ body {
 .cid-qI7V48tdp1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qI7V48tdp1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qI7V48tdp1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qI7V48tdp1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qI7V48tdp1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1697,10 +1693,6 @@ body {
   .cid-qI7V48tdp1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qI7V48tdp1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-qI7V48tdp1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qI7V48tdp1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-qI7V48tdp1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-qI7V48tdp1 .navbar-collapse.show .navbar-buttons {
@@ -1802,7 +1794,7 @@ body {
   background-image: url("../../../assets/images/accelerate-sales-and-marketing-alignment-6-simple-steps-900x676.jpg");
 }
 .cid-qI9MB3LM3B P {
-  color: #ffffff;
+  color: #efefef;
 }
 .cid-qI9Nk3R1X4 {
   padding-top: 60px;
