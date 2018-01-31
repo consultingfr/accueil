@@ -3,7 +3,7 @@
     "name": "Consulting France",
     "currentPage": "home.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 36,
+    "uniqCompNum": 45,
     "versionPublish": "4.6.3",
     "theme": {
       "name": "mobirise4",
@@ -49,7 +49,7 @@
       "settings": {
         "meta_descr": "Faisons connaissance !",
         "title": "Contact",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
