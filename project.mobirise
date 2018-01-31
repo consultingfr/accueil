@@ -40,7 +40,7 @@
         "#3ea5d2"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/cd12-128x83.png",
+    "favicon": "@PROJECT_PATH@/assets/images/cd1.jpg",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "google-analytics": "",
