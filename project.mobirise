@@ -1290,7 +1290,7 @@
               "background-color": "@bg-value"
             },
             ".media-container-row .mbr-text": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_name": "footer6",
