@@ -2002,6 +2002,11 @@ body {
   color: #b2a378;
   text-align: left;
 }
+.cid-qIumr7qM0T {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #011538;
+}
 .cid-qI7V48tdp1 .navbar {
   padding: .5rem 0;
   background: #011538;
@@ -2390,12 +2395,4 @@ body {
 .cid-qI7V48tdp1 .nav-link:hover,
 .cid-qI7V48tdp1 .dropdown-item:hover {
   color: #b1a374 !important;
-}
-.cid-qIfuOyMtU0 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #011538;
-}
-.cid-qIfuOyMtU0 .media-container-row .mbr-text {
-  color: #efefef;
 }
