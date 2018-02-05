@@ -2025,7 +2025,7 @@ body {
 .cid-qINxpIpcsO {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qINxpIpcsO .mbr-section-subtitle {
   color: #767676;
@@ -2076,6 +2076,15 @@ body {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-qINxpIpcsO .mbr-section-title {
+  color: #149dcc;
+}
+.cid-qINxpIpcsO H4 {
+  color: #b1a374;
+}
+.cid-qINxpIpcsO .count {
+  color: #b1a374;
 }
 .cid-qILLe9eApE {
   padding-top: 15px;
