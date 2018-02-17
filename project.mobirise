@@ -541,8 +541,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Consulting France.fr",
-        "meta_descr": "Nous accompagnons les entreprises à répondre à leurs défis d'aujourd'hui (commerciaux, technologiques, organisationels) afin de saisir les opportunités de demain.",
+        "title": "Consulting France Services",
+        "meta_descr": "Nous accompagnons les entreprises à répondre à leurs défis commerciaux, technologiques, organisationels afin de saisir les opportunités de demain.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
