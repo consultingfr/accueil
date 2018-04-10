@@ -1805,11 +1805,14 @@ body {
   background-color: #000000;
 }
 .cid-qI9MB3LM3B {
-  background-image: url("../../../assets/images/accelerate-sales-and-marketing-alignment-6-simple-steps-1-900x676.jpg");
+  background-image: url("../../../assets/images/melbournemetrotunnel-cs-rail-header.jpg");
 }
 .cid-qI9MB3LM3B P {
-  color: #ffffff;
+  color: #f9f9f9;
   text-align: center;
+}
+.cid-qI9MB3LM3B H1 {
+  color: #f9f9f9;
 }
 .cid-qJRDOrwe2Z {
   padding-top: 30px;
@@ -1849,7 +1852,7 @@ body {
 .cid-qILFdgigk1 {
   padding-top: 30px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/bandeau-bleu.jpg");
+  background-image: url("../../../assets/images/ey-webcast-2014-10-04-insurance-preparing-for-solvency-ii.jpg");
 }
 .cid-qILFdgigk1 h2 {
   text-align: center;
@@ -1967,7 +1970,7 @@ body {
   color: #ffffff;
 }
 .cid-qILuq2Mz0z {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/bandeau-bleu.jpg");
 }
@@ -2004,8 +2007,8 @@ body {
   color: #333333;
 }
 .cid-qILvYflg2z {
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/bandeau-bleu.jpg");
 }
 .cid-qILvYflg2z h4 {
@@ -2111,7 +2114,8 @@ body {
   color: #149dcc;
 }
 .cid-qINxpIpcsO H4 {
-  color: #c1c1c1;
+  color: #e4d295;
+  text-align: left;
 }
 .cid-qINxpIpcsO .count {
   color: #000000;
