@@ -1841,18 +1841,57 @@ body {
 .cid-qJRDOrwe2Z .section-text DIV {
   color: #b2a378;
 }
+.cid-qIabaXfd5O {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/accenture-analytics-careers-marquee-1600x900.jpg");
+}
+.cid-qIabaXfd5O DIV {
+  text-align: center;
+  color: #3ea5d2;
+}
+.cid-qIabaXfd5O H2 {
+  text-align: center;
+  color: #3ea5d2;
+}
+.cid-qIabaXfd5O .mbr-section-subtitle {
+  text-align: right;
+  color: #ffffff;
+}
+.cid-qIabaXfd5O .mbr-text {
+  text-align: right;
+  color: #ffffff;
+}
+.cid-qIabaXfd5O .mbr-section-subtitle DIV {
+  text-align: right;
+  color: #ffffff;
+}
 .cid-qI9QslcZvP {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/accenture-security-industrial-internet-things-marquee-1600x900.jpg");
+  background-image: url("../../../assets/images/industrie-4.0-jamison-mcandie-112375.jpg");
 }
 .cid-qI9QslcZvP H1 {
   color: #b2a378;
 }
+.cid-qPiw6drqTl {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #149dcc, #060409);
+}
+.cid-qPiw6drqTl .main {
+  flex-direction: row-reverse;
+}
+.cid-qPiw6drqTl .main .mbr-section-btn {
+  text-align: right;
+}
+.cid-qPiw6drqTl .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-qILFdgigk1 {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/ey-webcast-2014-10-04-insurance-preparing-for-solvency-ii.jpg");
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/leiterplatte-hintergrund-visual-w1024xh512-cutout.jpg");
 }
 .cid-qILFdgigk1 h2 {
   text-align: center;
@@ -1932,31 +1971,6 @@ body {
 .cid-qILFdgigk1 .mbr-section-text B {
   color: #ffffff;
 }
-.cid-qIabaXfd5O {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/accenture-analytics-careers-marquee-1600x900.jpg");
-}
-.cid-qIabaXfd5O DIV {
-  text-align: center;
-  color: #3ea5d2;
-}
-.cid-qIabaXfd5O H2 {
-  text-align: center;
-  color: #3ea5d2;
-}
-.cid-qIabaXfd5O .mbr-section-subtitle {
-  text-align: right;
-  color: #ffffff;
-}
-.cid-qIabaXfd5O .mbr-text {
-  text-align: right;
-  color: #ffffff;
-}
-.cid-qIabaXfd5O .mbr-section-subtitle DIV {
-  text-align: right;
-  color: #ffffff;
-}
 .cid-qILrPVFB8p {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1969,76 +1983,49 @@ body {
   text-align: center;
   color: #ffffff;
 }
-.cid-qILuq2Mz0z {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/bandeau-bleu.jpg");
+.cid-qPitvvKipe {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/homepagehero-1400x800v2.png");
 }
-.cid-qILuq2Mz0z h4 {
-  text-align: left;
+.cid-qPitvvKipe h4 {
   font-weight: 500;
+  color: #ffffff;
 }
-.cid-qILuq2Mz0z p {
-  color: #767676;
-  text-align: left;
+.cid-qPitvvKipe p {
+  color: #ffffff;
+}
+.cid-qPitvvKipe .card {
+  margin-bottom: 2rem;
+}
+.cid-qPitvvKipe .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-qPitvvKipe .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qPitvvKipe .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-qPitvvKipe .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qPitvvKipe .card-box .mbr-text {
   margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
 }
-.cid-qILuq2Mz0z .card-img {
-  text-align: left;
-  background-color: #ffffff;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  padding: 3rem 2.5rem 0 2.5rem;
+.cid-qPitvvKipe .card-box .mbr-section-btn {
+  padding-top: 1rem;
 }
-.cid-qILuq2Mz0z .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-qILuq2Mz0z .card-box {
-  padding: 0rem 2.5rem 3rem 2.5rem;
-  background-color: #ffffff;
-}
-.cid-qILuq2Mz0z .card-title,
-.cid-qILuq2Mz0z .card-img {
-  text-align: center;
-}
-.cid-qILuq2Mz0z .card-title,
-.cid-qILuq2Mz0z .card-img B {
-  color: #333333;
-}
-.cid-qILvYflg2z {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/bandeau-bleu.jpg");
-}
-.cid-qILvYflg2z h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qILvYflg2z p {
-  color: #767676;
-  text-align: left;
+.cid-qPitvvKipe .card-box .mbr-section-btn a {
+  margin-top: 1rem;
   margin-bottom: 0;
-}
-.cid-qILvYflg2z .card-img {
-  text-align: left;
-  background-color: #ffffff;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  padding: 3rem 2.5rem 0 2.5rem;
-}
-.cid-qILvYflg2z .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-qILvYflg2z .card-box {
-  padding: 0rem 2.5rem 3rem 2.5rem;
-  background-color: #ffffff;
-}
-.cid-qILvYflg2z .card-title,
-.cid-qILvYflg2z .card-img {
-  text-align: center;
-  color: #333333;
 }
 .cid-qI9RWMREzK {
   padding-top: 30px;
