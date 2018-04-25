@@ -1841,31 +1841,6 @@ body {
 .cid-qJRDOrwe2Z .section-text DIV {
   color: #b2a378;
 }
-.cid-qIabaXfd5O {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/accenture-analytics-careers-marquee-1600x900.jpg");
-}
-.cid-qIabaXfd5O DIV {
-  text-align: center;
-  color: #3ea5d2;
-}
-.cid-qIabaXfd5O H2 {
-  text-align: center;
-  color: #3ea5d2;
-}
-.cid-qIabaXfd5O .mbr-section-subtitle {
-  text-align: right;
-  color: #ffffff;
-}
-.cid-qIabaXfd5O .mbr-text {
-  text-align: right;
-  color: #ffffff;
-}
-.cid-qIabaXfd5O .mbr-section-subtitle DIV {
-  text-align: right;
-  color: #ffffff;
-}
 .cid-qI9QslcZvP {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -1874,24 +1849,20 @@ body {
 .cid-qI9QslcZvP H1 {
   color: #b2a378;
 }
-.cid-qPiw6drqTl {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #149dcc, #060409);
+.cid-qI9QslcZvP P {
+  text-align: center;
 }
-.cid-qPiw6drqTl .main {
-  flex-direction: row-reverse;
-}
-.cid-qPiw6drqTl .main .mbr-section-btn {
+.cid-qI9QslcZvP DIV {
   text-align: right;
+  color: #efefef;
 }
-.cid-qPiw6drqTl .btn {
-  margin: 0 0 .5rem 0;
+.cid-qI9QslcZvP H3 {
+  text-align: right;
 }
 .cid-qILFdgigk1 {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/leiterplatte-hintergrund-visual-w1024xh512-cutout.jpg");
+  background-image: url("../../../assets/images/homepagehero-1400x800v2.png");
 }
 .cid-qILFdgigk1 h2 {
   text-align: center;
@@ -1986,7 +1957,7 @@ body {
 .cid-qPitvvKipe {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/homepagehero-1400x800v2.png");
+  background-image: url("../../../assets/images/leiterplatte-hintergrund-visual-w1024xh512-cutout.jpg");
 }
 .cid-qPitvvKipe h4 {
   font-weight: 500;
@@ -2043,7 +2014,7 @@ body {
   color: #073b4c;
 }
 .cid-qINxpIpcsO {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #000000;
 }
