@@ -3,7 +3,7 @@
     "name": "Consulting France",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 104,
+    "uniqCompNum": 108,
     "versionPublish": "4.10.7",
     "theme": {
       "name": "mobirise4",
@@ -93,7 +93,7 @@
     "contact.html": {
       "settings": {
         "meta_descr": "Faisons connaissance !",
-        "title": "Nous contacter - Consulting France Services",
+        "title": "Nous contacter - Consulting France",
         "order": 1
       },
       "components": [
@@ -578,7 +578,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Consulting France Services",
+        "title": "Consultingfrance.fr - Services",
         "meta_descr": "Consultingfrance.fr - Une relation de confiance pour anticiper, concevoir et relever les défis commerciaux, technologiques, organisationels afin de saisir les opportunités de demain.",
         "header_custom": "",
         "footer_custom": "",
