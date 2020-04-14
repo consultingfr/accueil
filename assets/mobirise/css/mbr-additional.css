@@ -1456,6 +1456,10 @@ section.lazy-placeholder:after {
 }
 .cid-rUV2ZLp5c6 .count {
   color: #0a1c44;
+  text-align: left;
+}
+.cid-rUV2ZLp5c6 .count DIV {
+  text-align: left;
 }
 .cid-rzBJDlg98u {
   padding-top: 45px;
