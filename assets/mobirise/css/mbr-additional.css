@@ -1460,6 +1460,9 @@ section.lazy-placeholder:after {
 .cid-rWevZ3ftU2 H4 {
   color: #011538;
 }
+.cid-rWevZ3ftU2 .count {
+  color: #efefef;
+}
 .cid-rUV2ZLp5c6 {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -1889,7 +1892,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-qINxpIpcsO .count {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-qIumr7qM0T {
   padding-top: 0px;
