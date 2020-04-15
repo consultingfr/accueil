@@ -1395,26 +1395,70 @@ section.lazy-placeholder:after {
   color: #009fdb;
   text-align: center;
 }
-.cid-rWbkxbpYUw {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rWevZ3ftU2 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-rWbkxbpYUw .image-block {
-  margin: auto;
+.cid-rWevZ3ftU2 .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
 }
-.cid-rWbkxbpYUw figcaption {
-  position: relative;
+.cid-rWevZ3ftU2 .mbr-content-text {
+  color: #767676;
 }
-.cid-rWbkxbpYUw figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+.cid-rWevZ3ftU2 .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
 }
-@media (max-width: 768px) {
-  .cid-rWbkxbpYUw .image-block {
-    width: 100% !important;
+.cid-rWevZ3ftU2 .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-rWevZ3ftU2 .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rWevZ3ftU2 .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rWevZ3ftU2 .media-block {
+    padding-right: 2rem;
   }
+}
+.cid-rWevZ3ftU2 .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rWevZ3ftU2 .card-img {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+@media (max-width: 991px) {
+  .cid-rWevZ3ftU2 .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rWevZ3ftU2 DIV {
+  text-align: left;
+}
+.cid-rWevZ3ftU2 H4 {
+  color: #011538;
 }
 .cid-rUV2ZLp5c6 {
   padding-top: 0px;
@@ -1482,113 +1526,17 @@ section.lazy-placeholder:after {
 .cid-rUV2ZLp5c6 .count DIV {
   text-align: left;
 }
-.cid-rWevZ3ftU2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rWeAkkX3SC {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rWevZ3ftU2 .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rWevZ3ftU2 .mbr-content-text {
+.cid-rWeAkkX3SC .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rWevZ3ftU2 .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rWevZ3ftU2 .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-rWevZ3ftU2 .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-.cid-rWevZ3ftU2 .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-rWevZ3ftU2 .media-block {
-    padding-right: 2rem;
-  }
-}
-.cid-rWevZ3ftU2 .cards-block {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-rWevZ3ftU2 .card-img {
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-@media (max-width: 991px) {
-  .cid-rWevZ3ftU2 .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-left: 0;
-    padding-bottom: 2rem;
-  }
-}
-.cid-rWevZ3ftU2 DIV {
-  text-align: left;
-}
-.cid-rWevZ3ftU2 H4 {
-  color: #011538;
-}
-.cid-rWbeuxvKMB {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/cf-approche-a-finir-1.gif");
-}
-.cid-rWbeuxvKMB h3 {
-  font-weight: 300;
-}
-.cid-rWbeuxvKMB .card-img {
-  width: initial;
-}
-.cid-rWbeuxvKMB .card-img .mbr-iconfont {
-  font-size: 48px;
-  padding-right: 1rem;
-}
-.cid-rWbeuxvKMB .media-container-row {
-  word-wrap: break-word;
-  padding-bottom: 2rem;
-  min-height: 100%;
-}
-.cid-rWbeuxvKMB .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rWbeuxvKMB .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rWbeuxvKMB .mbr-text {
-  color: #767676;
-}
-.cid-rWbeuxvKMB .media-container-column {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-}
-.cid-rWbeuxvKMB .mbr-al-i-c {
-  align-items: center;
-}
-.cid-rWbeuxvKMB .card-title,
-.cid-rWbeuxvKMB .card-img {
-  color: #011538;
+.cid-rWeAkkX3SC H2 {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-rzBJDlg98u {
   padding-top: 45px;
