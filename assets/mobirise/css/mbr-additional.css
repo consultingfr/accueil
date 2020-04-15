@@ -1432,7 +1432,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rWevZ3ftU2 .media-block {
-    padding-right: 2rem;
+    padding-left: 2rem;
   }
 }
 .cid-rWevZ3ftU2 .cards-block {
@@ -1453,6 +1453,10 @@ section.lazy-placeholder:after {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-rWevZ3ftU2 .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 .cid-rWevZ3ftU2 DIV {
   text-align: left;
