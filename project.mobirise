@@ -1192,7 +1192,7 @@
               "font-weight": "300"
             },
             ".mbr-content-text": {
-              "color": "#767676"
+              "color": "#cccccc"
             },
             ".card": {
               "word-wrap": "break-word",
