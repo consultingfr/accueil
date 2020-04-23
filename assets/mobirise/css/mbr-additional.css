@@ -1347,19 +1347,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rzp8YHuTgb {
-  padding-top: 45px;
-  padding-bottom: 30px;
+.cid-rWZf0Cd4Cx {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/industrie-4.0-jamison-mcandie-112375.jpg");
 }
-.cid-rzp8YHuTgb .nav-tabs {
+.cid-rWZf0Cd4Cx .nav-tabs {
   -webkit-justify-content: center;
   justify-content: center;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
   border-bottom: none;
 }
-.cid-rzp8YHuTgb .nav-tabs .nav-link {
+.cid-rWZf0Cd4Cx .nav-tabs .nav-link {
   box-sizing: border-box;
   color: #ffffff;
   font-style: normal;
@@ -1370,34 +1370,34 @@ section.lazy-placeholder:after {
   margin: 0.4rem .8rem !important;
   transition: all .3s;
 }
-.cid-rzp8YHuTgb .nav-tabs .nav-link:hover {
+.cid-rWZf0Cd4Cx .nav-tabs .nav-link:hover {
   background-color: #072bb0;
 }
-.cid-rzp8YHuTgb .nav-tabs .nav-link:focus {
+.cid-rWZf0Cd4Cx .nav-tabs .nav-link:focus {
   box-shadow: none;
   background-color: #072bb0;
 }
-.cid-rzp8YHuTgb .nav-tabs .nav-link.active {
+.cid-rWZf0Cd4Cx .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #ffffff;
   font-style: normal;
   border: none;
   background: #072bb0;
 }
-.cid-rzp8YHuTgb .nav-tabs .nav-link.active:hover {
+.cid-rWZf0Cd4Cx .nav-tabs .nav-link.active:hover {
   border: none;
 }
-.cid-rzp8YHuTgb .mbr-section-subtitle {
-  color: #1cb1e7;
-}
-.cid-rzp8YHuTgb p {
+.cid-rWZf0Cd4Cx .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rzp8YHuTgb .media-container-row {
+.cid-rWZf0Cd4Cx p {
+  color: #767676;
+}
+.cid-rWZf0Cd4Cx .media-container-row {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
-.cid-rzp8YHuTgb .mbr-figure {
+.cid-rWZf0Cd4Cx .mbr-figure {
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
   -webkit-align-self: flex-start;
@@ -1406,15 +1406,15 @@ section.lazy-placeholder:after {
   padding-right: 0;
   padding-left: 4rem;
 }
-.cid-rzp8YHuTgb .mbr-text {
+.cid-rWZf0Cd4Cx .mbr-text {
   word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rzp8YHuTgb .media-container-row {
+  .cid-rWZf0Cd4Cx .media-container-row {
     -webkit-flex-direction: column-reverse;
     flex-direction: column-reverse;
   }
-  .cid-rzp8YHuTgb .mbr-figure {
+  .cid-rWZf0Cd4Cx .mbr-figure {
     padding-right: 0;
     padding-left: 0;
     padding-bottom: 2rem;
@@ -1422,16 +1422,8 @@ section.lazy-placeholder:after {
     padding-top: 2rem;
   }
 }
-.cid-rzp8YHuTgb H2 {
-  color: #00b0f0;
-  text-align: center;
-}
-.cid-rzp8YHuTgb DIV {
-  text-align: center;
-}
-.cid-rzp8YHuTgb P {
+.cid-rWZf0Cd4Cx P {
   color: #ffffff;
-  text-align: left;
 }
 .cid-rTpSBzXoe3 {
   padding-top: 15px;
