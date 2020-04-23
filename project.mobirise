@@ -27,7 +27,7 @@
         "display4Font": "Open Sans",
         "display4Size": "1.1",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
