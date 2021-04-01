@@ -545,8 +545,8 @@ a:hover {
   color: #004be0;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'Raleway', sans-serif;
@@ -2989,28 +2989,28 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
-.cid-rWNLeB5gq9 {
+.cid-stkZagOI4G {
   padding-top: 15px;
   padding-bottom: 0px;
   background-color: #000000;
 }
-.cid-rWNLeB5gq9 .mbr-section-subtitle {
+.cid-stkZagOI4G .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-rWNLeB5gq9 .mbr-content-text {
-  color: #ffffff;
+.cid-stkZagOI4G .mbr-content-text {
+  color: #072bb0;
 }
-.cid-rWNLeB5gq9 .card {
+.cid-stkZagOI4G .card {
   word-wrap: break-word;
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
-.cid-rWNLeB5gq9 .mbr-iconfont {
+.cid-stkZagOI4G .mbr-iconfont {
   font-size: 80px;
   color: #149dcc;
 }
-.cid-rWNLeB5gq9 .cards-container {
+.cid-stkZagOI4G .cards-container {
   display: flex;
   flex-direction: row;
   -webkit-flex-direction: row;
@@ -3020,16 +3020,16 @@ section.lazy-placeholder:after {
   -webkit-justify-content: center;
   word-break: break-word;
 }
-.cid-rWNLeB5gq9 .media-block {
+.cid-stkZagOI4G .media-block {
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
   padding-left: 2rem;
 }
-.cid-rWNLeB5gq9 .cards-block {
+.cid-stkZagOI4G .cards-block {
   flex-basis: 100%;
   -webkit-flex-basis: 100%;
 }
-.cid-rWNLeB5gq9 .card-img {
+.cid-stkZagOI4G .card-img {
   display: -webkit-flex;
   align-items: center;
   -webkit-align-items: center;
@@ -3037,21 +3037,21 @@ section.lazy-placeholder:after {
   -webkit-flex-wrap: wrap;
 }
 @media (max-width: 991px) {
-  .cid-rWNLeB5gq9 .media-block {
+  .cid-stkZagOI4G .media-block {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
     padding-left: 0;
     padding-bottom: 2rem;
   }
 }
-.cid-rWNLeB5gq9 .mbr-section-title {
-  color: #009fdb;
+.cid-stkZagOI4G .mbr-section-title {
+  color: #072bb0;
 }
-.cid-rWNLeB5gq9 H4 {
+.cid-stkZagOI4G H4 {
   color: #e4d295;
   text-align: left;
 }
-.cid-rWNLeB5gq9 .count {
+.cid-stkZagOI4G .count {
   color: #072bb0;
 }
 .cid-rUgsPZ0mif {
