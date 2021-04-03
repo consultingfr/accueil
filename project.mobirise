@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "Consulting France",
-    "currentPage": "partager.html",
+    "currentPage": "covid19.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 393,
-    "versionPublish": "5.3.0",
+    "versionPublish": "4.10.7",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "cookiesAlert": false,
+    "cookiesAlert": "",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
@@ -103,9 +103,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900"
       }
     ],
-    "imageResize": true,
-    "mbrsiteDomain": "oc1beaeimv",
-    "gdpr": false
+    "imageResize": true
   },
   "pages": {
     "contact.html": {
