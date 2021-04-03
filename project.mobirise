@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Consulting France",
-    "currentPage": "index.html",
+    "currentPage": "partager.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 390,
     "versionPublish": "4.10.7",
@@ -110,7 +110,7 @@
       "settings": {
         "meta_descr": "Faisons connaissance !",
         "title": "Nous contacter - Consulting France",
-        "order": 5
+        "order": 2
       },
       "components": [
         {
@@ -2227,7 +2227,7 @@
       "settings": {
         "meta_descr": "Consultingfrance.fr \nFaire connaitre Consulting France à un ami.",
         "title": "Consultingfrance.fr  - Faire connaitre à un ami",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -2773,7 +2773,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -4206,7 +4206,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4357,7 +4357,7 @@
             }
           },
           "_name": "formbuilder",
-          "_customHTML": "<section class=\"form\" group=\"Form\" plugins=\"formstyler, datepicker\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <header>Style</header>\n        <input type=\"checkbox\" name=\"customStyle\" title=\"Custom Style\">\n        <input type=\"checkbox\" name=\"disableElements\" title=\"Disable Control\">\n        <input type=\"color\" name=\"fieldColor\" title=\"Field\" value=\"#ffffff\" condition=\"customStyle\">\n        <input type=\"color\" name=\"fieldHover\" title=\"Field Hover\" value=\"#efefef\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderColor\" title=\"Border\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderHover\" title=\"Border Hover\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formText\" title=\"Texte\" value=\"#000000\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusText\" title=\"Text Focus\" value=\"#232323\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formPlaceholder\" title=\"Placeholders\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusPlaceholder\" title=\"Placeholders Focus\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../assets/background.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"(overlay &amp;&amp; bg.type=='image')\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div mbr-form=\"\" class=\"col-lg-8 mx-auto mbr-form\">\n<!--Formbuilder Form-->\n<form action=\"svideux@gmx.com\" name=\"Form Name\" method=\"POST\" class=\"mbr-form form-with-styler\">\n<div class=\"form-row\">\n<div hidden=\"hidden\" data-form-alert=\"\" class=\"alert alert-success col-12\">Merci</div>\n<div hidden=\"hidden\" data-form-alert-danger=\"\" class=\"alert alert-danger col-12\">Oops...! some problem!</div>\n</div>\n<div class=\"dragArea form-row\">\n<div class=\"col-lg-12 col-md-12 col-sm-12\">\n<h4 mbr-theme-style=\"display-5\" class=\"mbr-fonts-style\">Faire connaitre à un ami</h4>\n</div>\n<div class=\"col-lg-12 col-md-12 col-sm-12\">\n<hr>\n</div>\n<div class=\"col-lg-12 col-md-12 col-sm-12 form-group\" data-for=\"text\">\n<input type=\"text\" name=\"text\" placeholder=\"Précisez son prénom\" data-form-field=\"text\" mbr-theme-style=\"display-7\" class=\"form-control\" value=\"\">\n</div>\n<div class=\"col-lg-12 col-md-12 col-sm-12 form-group\" data-for=\"email1\">\n<input type=\"email\" name=\"email1\" placeholder=\"Son email\" data-form-field=\"email1\" mbr-theme-style=\"display-7\" class=\"form-control\" value=\"\">\n</div>\n<div data-for=\"message\" class=\"col-lg-12 col-md-12 col-sm-12 form-group\">\n<textarea name=\"message\" placeholder=\"Votre Message\" data-form-field=\"message\" mbr-theme-style=\"display-7\" class=\"form-control\" value=\"Bonjour, un ami vous fais suivre cet email. \">Bonjour, un ami vous fais suivre cet email. </textarea>\n</div>\n<div class=\"col-auto\" mbr-buttons=\"true\" mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\">\n<a data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\" type=\"submit\" class=\"btn btn-primary\">Transférer à un ami</a>\n</div>\n</div>\n</form><!--Formbuilder Form-->\n</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"form\" group=\"Form\" plugins=\"formstyler, datepicker\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <header>Style</header>\n        <input type=\"checkbox\" name=\"customStyle\" title=\"Custom Style\">\n        <input type=\"checkbox\" name=\"disableElements\" title=\"Disable Control\">\n        <input type=\"color\" name=\"fieldColor\" title=\"Field\" value=\"#ffffff\" condition=\"customStyle\">\n        <input type=\"color\" name=\"fieldHover\" title=\"Field Hover\" value=\"#efefef\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderColor\" title=\"Border\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderHover\" title=\"Border Hover\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formText\" title=\"Texte\" value=\"#000000\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusText\" title=\"Text Focus\" value=\"#232323\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formPlaceholder\" title=\"Placeholders\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusPlaceholder\" title=\"Placeholders Focus\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../assets/background.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"(overlay && bg.type=='image')\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div mbr-form class=\"col-lg-8 mx-auto mbr-form\">\n<!--Formbuilder Form-->\n<form action=\"svideux@gmx.com\" name=\"Form Name\" method=\"POST\" class=\"mbr-form form-with-styler\">\n<div class=\"form-row\">\n<div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Merci</div>\n<div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">Oops...! some problem!</div>\n</div>\n<div class=\"dragArea form-row\">\n<div class=\"col-lg-12 col-md-12 col-sm-12\">\n<h4 mbr-theme-style=\"display-5\" class=\"mbr-fonts-style\">Faire connaitre à un ami</h4>\n</div>\n<div class=\"col-lg-12 col-md-12 col-sm-12\">\n<hr>\n</div>\n<div data-for=\"text\" class=\"col-lg-12 col-md-12 col-sm-12 form-group\">\n<input type=\"text\" name=\"text\" placeholder=\"Précisez son prénom\" data-form-field=\"text\" mbr-theme-style=\"display-7\" class=\"form-control\" value>\n</div>\n<div data-for=\"email1\" class=\"col-lg-12 col-md-12 col-sm-12 form-group\">\n<input type=\"email\" name=\"email1\" placeholder=\"Son email\" data-form-field=\"email1\" mbr-theme-style=\"display-7\" class=\"form-control\" value>\n</div>\n<div data-for=\"message\" class=\"col-lg-12 col-md-12 col-sm-12 form-group\">\n<textarea name=\"message\" placeholder=\"Votre Message\" data-form-field=\"message\" mbr-theme-style=\"display-7\" class=\"form-control\" value=\"Bonjour, un ami vous fais suivre cet email. \">Bonjour, un ami vous fais suivre cet email. </textarea>\n</div>\n<div class=\"col-auto\" mbr-buttons=\"true\" mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\">\n<a data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\" type=\"submit\" class=\"btn btn-primary\">Transférer à un ami</a>\n</div>\n</div>\n</form><!--Formbuilder Form-->\n</div>\n        </div>\n    </div>\n</section>",
           "_cid": "s5DPyxPdkj",
           "_anchor": "formbuilder-74",
           "_protectedParams": [],
