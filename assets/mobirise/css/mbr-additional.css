@@ -3888,7 +3888,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-s5DP2JMEjP {
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/melbournemetrotunnel-cs-rail-header.jpg");
 }
@@ -3896,17 +3896,177 @@ section.lazy-placeholder:after {
 .cid-s5DP2JMEjP .mbr-section-btn {
   color: #002060;
 }
-.cid-s5DPyxPdkj {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-stwtD2xuSJ {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+.cid-stwtD2xuSJ .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-stwtD2xuSJ .mbr-section-title,
+.cid-stwtD2xuSJ .mbr-section-btn B {
+  color: #00a6ed;
+}
+.cid-stwtD2xuSJ .mbr-section-title,
+.cid-stwtD2xuSJ .mbr-section-btn {
+  text-align: left;
+  color: #002060;
+}
+.cid-stwtD2xuSJ H3 {
+  color: #002060;
+}
+.cid-stwtD2xuSJ P {
+  color: #002060;
+}
+.cid-stwsEVzrB8 {
+  padding-top: 0px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
-.cid-s5DPyxPdkj .mbr-overlay {
+.cid-stwsEVzrB8 .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
 }
-.cid-s5DPyxPdkj H4 {
-  color: #002060;
+.cid-stwsEVzrB8 .media-content {
+  padding-left: 2rem;
+}
+.cid-stwsEVzrB8 textarea {
+  min-height: 150px;
+}
+.cid-stwsEVzrB8 .mbr-iconfont {
+  position: absolute;
+  right: 1.2rem;
+  color: #767676;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.2rem;
+}
+.cid-stwsEVzrB8 .form-control,
+.cid-stwsEVzrB8 .field-input {
+  padding: 1rem;
+  background-color: #ffffff;
+  border: none;
+  border-bottom: 1px solid #767676;
+  color: #767676 !important;
+  transition: 0.4s;
+  font-size: 0.9rem;
+  box-shadow: none;
+  border-radius: 0px;
+  outline: none;
+}
+.cid-stwsEVzrB8 .form-control input::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .field-input input::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .form-control textarea::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .field-input textarea::-webkit-input-placeholder {
+  color: #767676 !important;
+}
+.cid-stwsEVzrB8 .form-control input:-moz-placeholder,
+.cid-stwsEVzrB8 .field-input input:-moz-placeholder,
+.cid-stwsEVzrB8 .form-control textarea:-moz-placeholder,
+.cid-stwsEVzrB8 .field-input textarea:-moz-placeholder {
+  color: #767676 !important;
+}
+.cid-stwsEVzrB8 .form-control:hover,
+.cid-stwsEVzrB8 .field-input:hover,
+.cid-stwsEVzrB8 .form-control:focus,
+.cid-stwsEVzrB8 .field-input:focus {
+  background-color: #ffffff;
+  border-color: #767676;
+  color: #ffffff;
+  box-shadow: none;
+  outline: none;
+}
+.cid-stwsEVzrB8 .form-control:hover input::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .field-input:hover input::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .form-control:focus input::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .field-input:focus input::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .form-control:hover textarea::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .field-input:hover textarea::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .form-control:focus textarea::-webkit-input-placeholder,
+.cid-stwsEVzrB8 .field-input:focus textarea::-webkit-input-placeholder {
+  color: #ffffff;
+}
+.cid-stwsEVzrB8 .form-control:hover input:-moz-placeholder,
+.cid-stwsEVzrB8 .field-input:hover input:-moz-placeholder,
+.cid-stwsEVzrB8 .form-control:focus input:-moz-placeholder,
+.cid-stwsEVzrB8 .field-input:focus input:-moz-placeholder,
+.cid-stwsEVzrB8 .form-control:hover textarea:-moz-placeholder,
+.cid-stwsEVzrB8 .field-input:hover textarea:-moz-placeholder,
+.cid-stwsEVzrB8 .form-control:focus textarea:-moz-placeholder,
+.cid-stwsEVzrB8 .field-input:focus textarea:-moz-placeholder {
+  color: #ffffff;
+}
+.cid-stwsEVzrB8 .jq-number__spin:hover,
+.cid-stwsEVzrB8 .jq-number__spin:focus {
+  background-color: #ffffff;
+  border-color: #767676;
+  color: #ffffff;
+  box-shadow: none;
+  outline: none;
+}
+.cid-stwsEVzrB8 .jq-number__spin {
+  background-color: #ffffff;
+  border-color: #767676;
+  color: #767676;
+  transition: 0.4s;
+  box-shadow: none;
+  outline: none;
+}
+.cid-stwsEVzrB8 .jq-selectbox li,
+.cid-stwsEVzrB8 .jq-selectbox li {
+  background-color: #ffffff;
+  color: #000000;
+}
+.cid-stwsEVzrB8 .jq-selectbox li:hover,
+.cid-stwsEVzrB8 .jq-selectbox li.selected {
+  background-color: #ffffff;
+  color: #000000;
+}
+.cid-stwsEVzrB8 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
+.cid-stwsEVzrB8 .jq-number__spin.minus:hover:after,
+.cid-stwsEVzrB8 .jq-number__spin.plus:hover:after {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+.cid-stwsEVzrB8 .jq-selectbox .jq-selectbox__trigger-arrow,
+.cid-stwsEVzrB8 .jq-number__spin.minus:after,
+.cid-stwsEVzrB8 .jq-number__spin.plus:after {
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+.cid-stwsEVzrB8 input::-webkit-clear-button {
+  display: none;
+}
+.cid-stwsEVzrB8 input::-webkit-inner-spin-button {
+  display: none;
+}
+.cid-stwsEVzrB8 input::-webkit-outer-spin-button {
+  display: none;
+}
+.cid-stwsEVzrB8 input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+.cid-stwsEVzrB8 .mbr-text,
+.cid-stwsEVzrB8 .mbr-section-btn {
+  color: #011538;
+}
+.cid-stwsEVzrB8 .text2,
+.cid-stwsEVzrB8 .mbr-section-btn {
+  color: #767676;
+}
+@media (max-width: 992px) {
+  .cid-stwsEVzrB8 .media-content {
+    padding-left: 0rem;
+    padding-top: 2rem;
+  }
+}
+.cid-stwsEVzrB8 H1 {
+  color: #011538;
+}
+.cid-stwsEVzrB8 P {
+  color: #465052;
 }
 .cid-s5DP31ZAxG {
   padding-top: 0px;
