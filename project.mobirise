@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Consulting France",
-    "currentPage": "covid19.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 397,
     "versionPublish": "5.3.0",
@@ -40,7 +40,7 @@
         "#072bb0"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/cd12-128x83-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/cd12-128x83-3.png",
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-6G4ZT97FMY\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'G-6G4ZT97FMY');\r\n</script>\r\n",
@@ -105,7 +105,7 @@
     ],
     "imageResize": true,
     "publishChangesOnly": false,
-    "mbrsiteDomain": "nv3mnvf3hc",
+    "mbrsiteDomain": "mkkgzio1id",
     "gdpr": false
   },
   "pages": {
